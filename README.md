@@ -17,8 +17,8 @@ ODM (Object Data Modeling): Mongoose
 Setup Instructions
 Follow these steps to set up and run the project locally:
 
-Clone the Repository:
-git clone https://github.com/your-username/book-store.git
+Clone the Repository: 
+git clone (https://github.com/Harshdupare/book_store.git)
 
 Navigate to the Project Directory:
 cd book-store
